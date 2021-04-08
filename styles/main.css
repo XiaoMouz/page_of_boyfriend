@@ -758,3 +758,16 @@ a {
   font-size: 16px;
   margin: 4px 8px;
 }
+
+      .sidebar .top-container .site-nav {
+        color: #3bc9db;
+      }
+    
+      .post-item .right .feature-container {
+        border-radius: 6px;
+      }
+    
+      .sidebar{
+background-image:url(https://gitee.com/xiaomouz/xiaomouz/raw/master/upload/images/ApplicationFrameHost_NPoYc795DF.jpg);!important
+}
+    
